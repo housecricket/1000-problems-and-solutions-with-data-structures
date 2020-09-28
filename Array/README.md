@@ -3,6 +3,7 @@ An array is the most basic data structure.
 ## How to initialize an array?
 There are many ways to initialize an array
 1. Initialization while declaring the array
+The following example shows how to define and initialize an array using array literal syntax.
 * JavaScript
 ```javascript
 var stringArray = ["one", "two", "three"];

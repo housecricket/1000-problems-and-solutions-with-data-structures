@@ -32,9 +32,9 @@ for (i=0; i<100; i++) {
 ```
 3. Initialization with values from another array
 
-Copy array items into another array
+Copy array items into another array.
+* JavaScript
 ```JavaScript
 var a = [ 'apple', 'orange', 'grape' ];
 b = a.slice(0);
 ```
-4. Initialization with specific values

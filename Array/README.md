@@ -4,7 +4,7 @@ An array is the most basic data structure.
 There are many ways to initialize an array
 1. Initialization while declaring the array
 The following example shows how to define and initialize an array using array literal syntax.
-* JavaScript
+* JavaScript 
 ```javascript
 var stringArray = ["one", "two", "three"];
 
@@ -16,10 +16,18 @@ var booleanArray = [true, false, false, true];
 
 var mixedArray = [1, "two", "three", 4];
 ```
-* C
+* C/C++
 ```
 int numericArray = {1, 2, 3, 4};
 ```
 2. Initialization using loop
+* C/C++
+```
+int numericArray[10];
+int i;
+for (i=0; i<100; i++) {
+    numericArray[i] = i;
+}
+```
 3. Initialization with values from another array
 4. Initialization with specific values

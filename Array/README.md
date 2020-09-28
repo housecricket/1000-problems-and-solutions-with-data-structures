@@ -44,6 +44,7 @@ In data structures, we need to traverse an array very often.
 1. JavaScript
 2. C/C++
 * How to traverse a 1-D array using pointer?
+
 In C/C++, we can use pointer.
 ```C
 int my_array[4] = { 10, 20, 30, 40 }

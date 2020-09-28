@@ -38,11 +38,13 @@ Copy array items into another array.
 var a = [ 'apple', 'orange', 'grape' ];
 b = a.slice(0);
 ```
-## How to traverse a 1D array using indexes?
+## How to traverse a 1D array?
 In data structures, we need to traverse an array very often.
+* How to traverse a 1-D array using indexes?
 1. JavaScript
 2. C/C++
-* How to traverse a 1-D array using pointer
+* How to traverse a 1-D array using pointer?
+In C/C++, we can use pointer.
 ```C
 int my_array[4] = { 10, 20, 30, 40 }
 int counter = 0;

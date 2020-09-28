@@ -15,6 +15,10 @@ var booleanArray = [true, false, false, true];
 
 var mixedArray = [1, "two", "three", 4];
 ```
+* C
+```
+int numericArray = {1, 2, 3, 4};
+```
 2. Initialization using loop
 3. Initialization with values from another array
 4. Initialization with specific values
